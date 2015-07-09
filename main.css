@@ -1,0 +1,142 @@
+.container {
+  margin: 0 auto;
+  width: 960px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+/* start picture stuff */
+
+#meLeft {
+  background: #eaeaed;
+  padding: 8px;
+  height: 200px;
+  width: 200px;
+  margin-left: 150px;
+}
+
+#meCenter {
+  background: #eaeaed;
+  padding: 8px;
+  height: 325px;
+  width: 200px;
+  margin-top: 50px
+}
+
+#meRight {
+  background: #eaeaed;
+  padding: 8px;
+  height: 200px;
+  width: 200px;
+}
+
+/*
+#patrick {
+  font-size: 50px;
+  text-align: center;
+}
+*/
+
+
+/* end picture stuff */
+
+/* begin indiana */
+
+#indiana {
+	height: 125px;
+	width: 100px;
+	float: left;
+	padding-right: 20px;
+}
+
+/* end indiana */
+
+/* begin my family */
+
+#family {
+	text-align: center;
+	padding-top: 30px;
+}
+
+/* end my family */
+
+/* begin oliver */
+
+#oliver {
+	text-align: right;
+	padding-right: 165px;
+	padding-top: 10px;
+}
+
+#dog {
+
+	padding-right: 165px;
+}
+
+#pictureOfOliver {
+	height: 125px;
+	width: 140px;
+	float: right;
+}
+
+/* end Oliver stuff */
+
+/* start I Like */
+
+#Interests {
+	text-align: center;
+	padding-top: 15px;
+}
+
+.column-left {
+	float: left; width: 33%;
+}
+
+.column-right {
+	float: right; width: 33%;
+}
+.column-center {
+	display: inline-block; width: 33%;
+}
+
+#painting {
+	height: 200px;
+	width: 300px;
+}
+
+#comedy {
+	height: 200px;
+	width: 300px;
+}
+
+/* end I Like */
+
+/* Page 2 */
+
+
+
+#build {
+	text-align: center;
+}
+
+#goals {
+	text-align: right;
+}
+
+#lesson {
+	text-align: center;
+}
+
+.gif {
+	height: 200px;
+	width: 300px;
+}
+
+#button {
+	height: 45px;
+    width: 160px;
+    border-radius: 10px;
+    text-align: center;
+    color: #0000B2;
+    background-color: #E0EBEB;
+}
